@@ -84,6 +84,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
 * [sv-ginger](https://sv-ginger.appspot.com/)
 * [voice-memos](https://voice-memos.appspot.com/)
+* [Exchange Rate](https://www.currency.wiki/)
 * [Resume Nation](https://resume-nation.github.io)
 
 ## Tutorials
